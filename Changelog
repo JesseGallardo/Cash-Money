@@ -1,0 +1,34 @@
+Version 0.0.01 (12/9/17) -
+    1) Added *Income Class and *Expenses Class
+       a) Income Class
+            - Added getter
+            - Added money and name variables
+            - Added Constructor
+       b) Expenses Class
+            - Added getter
+            - Added money and name variables
+            - Added Constructor
+    2) Added *Main Class
+
+    Programmer Comments:
+    This is a very basic bare bones structure of what "Cash Money" will contain. Needless to say that it is very possible that there will be more
+    classes to make the main method more clean. May add setter methods for *Income and *Expenses method to possibly simplify process of entering information.
+
+Version 0.9.0 (12/27/17) -
+    1) Added Budget Sheet Class
+        a) addIncome method
+        b) addExpenses method
+        c) containsIncome method
+        d) containsExpenses method
+        e) removeIncome method
+        f) removeExpenses method
+        g) totalIncome method
+        h) totalExpenses method
+        i) writeFile method
+    2) Finished Main Class
+        a) Added multiple GUI methods
+
+    Programmer Comments:
+    This program is nearly finished but requires some bug fixes and some final adjustments. Most methods are self explanatory while the
+    writeFile method makes a directory in the users Desktop where every file will be made there. Currently there is no way to show the user the data upon
+    completion without having to go the users Desktop and view it from there. May work on that.
